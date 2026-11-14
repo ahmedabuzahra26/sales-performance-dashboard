@@ -324,5 +324,3 @@ All dashboard visuals are driven by pivot tables on a separate sheet:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Abuzahra-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmed-abuzahra-a040a5104)
 
 ⭐ If you found this project useful, consider giving it a star!
-
-⭐ If you found this project useful, consider giving it a star!

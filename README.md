@@ -1,4 +1,4 @@
-# 🧹 Excel Power Query Data Cleaning, Star Schema & Pizza Sales Dashboard
+# 🧹 Excel Power Query Data Cleaning & Star Schema Sales Performance Dashboard
 
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power%20Query%20(M)-0078D4?style=for-the-badge)
@@ -34,6 +34,8 @@ An end-to-end **Excel BI** project built entirely inside Microsoft Excel:
 ---
 
 ## 🔍 Project Overview
+<img width="2056" height="1013" alt="Sales Performance Dashboard" src="https://github.com/user-attachments/assets/79ca93ae-45f5-4424-b6d2-c63a7f115faa" />
+
 
 | Item | Details |
 |------|---------|
@@ -318,9 +320,9 @@ All dashboard visuals are driven by pivot tables on a separate sheet:
 
 **Mohamed Mahmoud Sobhy**
 
-[![GitHub](https://img.shields.io/badge/GitHub-M--M--Sobhy-181717?style=flat&logo=github)](https://github.com/M-M-Sobhy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Sobhy-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohamed-mahmoud-sobhy-668ba937a)
-[![YouTube](https://img.shields.io/badge/YouTube-@M__Sob7y-FF0000?style=flat&logo=youtube)](https://www.youtube.com/@M_Sob7y)
+[![GitHub]([https://github.com/ahmedabuzahra26](https://github.com/ahmedabuzahra26))
+[![LinkedIn](https://www.linkedin.com/in/ahmed-abuzahra-a040a5104)
+
 
 ⭐ If you found this project useful, consider giving it a star!
 
@@ -329,4 +331,4 @@ All dashboard visuals are driven by pivot tables on a separate sheet:
 
 **Ahmed Abuzahra**
 Retail operations and customer experience professional building data analysis skills with Excel.
-[LinkedIn](https://www.linkedin.com/in/ahmed-abuzahra-a040a5104)
+[LinkedIn]

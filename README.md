@@ -318,17 +318,11 @@ All dashboard visuals are driven by pivot tables on a separate sheet:
 
 ## 👤 Author
 
-**Mohamed Mahmoud Sobhy**
+**Ahmed Abuzahra**
 
-[![GitHub]([https://github.com/ahmedabuzahra26](https://github.com/ahmedabuzahra26))
-[![LinkedIn](https://www.linkedin.com/in/ahmed-abuzahra-a040a5104)
-
+[![GitHub](https://img.shields.io/badge/GitHub-ahmedabuzahra26-181717?style=flat&logo=github)](https://github.com/ahmedabuzahra26)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Abuzahra-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmed-abuzahra-a040a5104)
 
 ⭐ If you found this project useful, consider giving it a star!
 
-
-## Author
-
-**Ahmed Abuzahra**
-Retail operations and customer experience professional building data analysis skills with Excel.
-[LinkedIn]
+⭐ If you found this project useful, consider giving it a star!
